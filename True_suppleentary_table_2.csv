@@ -1,0 +1,52 @@
+Species;RDI;Neoplasia;Benign;Malignant;TaxClass;CMR;CMR_Malignant;conf;HIB;precision;Order
+Alces_alces;587;16;14;14;Mammals;0.0272572402044293;0.0238500851788756;High;0;present in our genmic torpor dataset (suppl table 1);Artiodactyla
+Alces_americanus;245;1;1;0;Mammals;0.00408163265306122;0;High;0;is artiodactyl;Artiodactyla
+Antilocapra_americana;112;0;0;0;Mammals;0;0;High;0;present in our genmic torpor dataset (suppl table 1);Artiodactyla
+Bison_bison;71;3;3;0;Mammals;0.0422535211267606;0;High;0;is artiodactyl;Artiodactyla
+Cervus_canadensis;323;3;1;1;Mammals;0.00928792569659443;0.00309597523219814;High;0;present in our genmic torpor dataset (suppl table 1);Artiodactyla
+Lagenorhynchus_acutus;24;1;1;0;Mammals;0.0416666666666667;0;High;0;is artiodactyl;Artiodactyla
+Odocoileus_hemionus;814;6;4;4;Mammals;0.00737100737100737;0.00491400491400491;High;0;present in our genmic torpor dataset (suppl table 1);Artiodactyla
+Odocoileus_virginianus;1320;45;25;25;Mammals;0.0340909090909091;0.0189393939393939;High;0;present in our genmic torpor dataset (suppl table 1);Artiodactyla
+Ovibos_moschatus;113;0;0;0;Mammals;0;0;High;0;present in our genmic torpor dataset (suppl table 1);Artiodactyla
+Ovis_canadensis;27;0;0;0;Mammals;0;0;High;0;present in our genmic torpor dataset (suppl table 1);Artiodactyla
+Phocoena_phocoena;106;2;1;1;Mammals;0.0188679245283019;0.00943396226415094;High;0;present in our genmic torpor dataset (suppl table 1);Artiodactyla
+Rangifer_tarandus;545;11;6;5;Mammals;0.0201834862385321;0.00917431192660551;High;0;present in our genmic torpor dataset (suppl table 1);Artiodactyla
+Canis_latrans;666;8;2;2;Mammals;0.012012012012012;0.003003003003003;Medium;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Canis_lycaon;24;0;0;0;Mammals;0;0;Medium;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Halichoerus_grypus;52;0;0;0;Mammals;0;0;Medium;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Lynx_canadensis;24;0;0;0;Mammals;0;0;High;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Mephitis_mephitis;632;1;1;0;Mammals;0.00158227848101266;0;High;1;DOI: 10.1086/509211;Carnivora
+Mustela_erminea;21;0;0;0;Mammals;0;0;Medium;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Pagophilus_groenlandicus;36;3;2;2;Mammals;0.0833333333333333;0.0555555555555556;Medium;0;aquatic,10.1016/B978-0-12-373553-9.X0001-6;Carnivora
+Phoca_vitulina;38;0;0;0;Mammals;0;0;Medium;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Procyon_lotor;2661;34;12;12;Mammals;0.0127771514468245;0.00450958286358512;Medium;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Puma_concolor;68;0;0;0;Mammals;0;0;High;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Pusa_hispida;24;1;1;0;Mammals;0.0416666666666667;0;High;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Taxidea_taxus;27;0;0;0;Mammals;0;0;High;1;present in our genmic torpor dataset (suppl table 1);Carnivora
+Ursus_americanus;141;2;2;0;Mammals;0.0141843971631206;0;High;1;present in our genmic torpor dataset (suppl table 1);Carnivora
+Vulpes_lagopus;31;0;0;0;Mammals;0;0;High;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Canis_lupus;358;1;1;0;Mammals;0.00279329608938547;0;Medium;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Vulpes_vulpes;615;4;1;1;Mammals;0.00650406504065041;0.0016260162601626;High;0;present in our genmic torpor dataset (suppl table 1);Carnivora
+Eptesicus_fuscus;1921;0;0;0;Mammals;0;0;High;1;present in our genmic torpor dataset (suppl table 1);Chiroptera
+Lasionycteris_noctivagans;79;0;0;0;Mammals;0;0;High;1;https://pubmed.ncbi.nlm.nih.gov/29894759/;Chiroptera
+Lasiurus_cinereus;42;0;0;0;Mammals;0;0;High;1;https://pubmed.ncbi.nlm.nih.gov/16456644/;Chiroptera
+Myotis_lucifugus;1020;0;0;0;Mammals;0;0;High;1;present in our genmic torpor dataset (suppl table 1);Chiroptera
+Myotis_septentrionalis;99;0;0;0;Mammals;0;0;High;1;present in our genmic torpor dataset (suppl table 1);Chiroptera
+Didelphis_virginiana;87;3;3;0;Mammals;0.0344827586206897;0;High;0;https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1083&context=tpn;Didelphimorphia
+Blarina_brevicauda;31;0;0;0;Mammals;0;0;Medium;0;https://academic.oup.com/jmammal/article-abstract/67/3/450/844719?redirectedFrom=fulltext&login=true&utm_source=chatgpt.com;Eulipotyphla
+Lepus_americanus;228;6;4;4;Mammals;0.0263157894736842;0.0175438596491228;High;0;present in our genmic torpor dataset (suppl table 1);Lagomorpha
+Lepus_townsendii;138;4;1;1;Mammals;0.0289855072463768;0.0072463768115942;High;0;present in our genmic torpor dataset (suppl table 1);Lagomorpha
+Sylvilagus_floridanus;213;9;7;7;Mammals;0.0422535211267606;0.0328638497652582;High;0;https://www.gbif.org/species/2436886;Lagomorpha
+Castor_canadensis;184;8;7;7;Mammals;0.0434782608695652;0.0380434782608696;High;0;present in our genmic torpor dataset (suppl table 1);Rodentia
+Cynomys_ludovicianus;41;0;0;0;Mammals;0;0;High;1;10.1644/1545-1542(2001)082<0551:FTIFRB>2.0.CO;Rodentia
+Glaucomys_sabrinus;23;0;0;0;Mammals;0;0;Medium;1;https://www.sciencedirect.com/science/article/pii/S0306456517300931;Rodentia
+Marmota_monax;90;0;0;0;Mammals;0;0;High;1;present in our genmic torpor dataset (suppl table 1);Rodentia
+Microtus_pennsylvanicus;21;0;0;0;Mammals;0;0;Medium;0;https://pubmed.ncbi.nlm.nih.gov/6364189/;Rodentia
+Ondatra_zibethicus;240;1;1;0;Mammals;0.00416666666666667;0;Medium;0;present in our genmic torpor dataset (suppl table 1);Rodentia
+Peromyscus_maniculatus;38;0;0;0;Mammals;0;0;High;1;present in our genmic torpor dataset (suppl table 1);Rodentia
+Rattus_norvegicus;21;0;0;0;Mammals;0;0;Medium;0;present in our genmic torpor dataset (suppl table 1);Rodentia
+Sciurus_carolinensis;360;3;1;1;Mammals;0.00833333333333333;0.00277777777777778;Medium;0;present in our genmic torpor dataset (suppl table 1);Rodentia
+Tamias_striatus;66;0;0;0;Mammals;0;0;High;1;https://besjournals.onlinelibrary.wiley.com/doi/10.1111/j.1365-2656.2005.00968.x;Rodentia
+Tamiasciurus_hudsonicus;86;1;1;0;Mammals;0.0116279069767442;0;Medium;0;https://www.tandfonline.com/doi/abs/10.2980/19-2-3464;Rodentia
+Urocitellus_richardsonii;117;0;0;0;Mammals;0;0;High;1;https://www.sciencedirect.com/science/article/pii/S1096495920300609;Rodentia
+Mus_musculus;26;0;0;0;Mammals;0;0;Medium;1;present in our genmic torpor dataset (suppl table 1);Rodentia
